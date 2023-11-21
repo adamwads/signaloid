@@ -2,7 +2,7 @@
 
 # Explicitely specify which files to compile
 SOURCES = \
-	Brown-and-Ham-no-distributions.c #main.c
+	main.c # Brown-and-Ham-no-distributions.c
 
 # Options that get passed to the C compiler
 #CFLAGS = -DDEBUG
